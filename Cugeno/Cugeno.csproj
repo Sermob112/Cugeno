@@ -69,6 +69,7 @@
       <DependentUpon>LarsenForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Mamdani.cs" />
+    <Compile Include="Mamdani2.cs" />
     <Compile Include="MamdaniForm.cs">
       <SubType>Form</SubType>
     </Compile>
